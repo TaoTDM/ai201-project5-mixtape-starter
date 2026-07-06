@@ -1,6 +1,6 @@
 # Project 5 — Mixtape Bug Hunt: Submission
 
-**Name:** _(add your name)_ · **Course:** AI201 · **Branch:** `bugfix/mixtape`
+**Course:** AI201 · **Branch:** `bugfix/mixtape`
 
 All five issues were fixed (three required + two stretch), each as its own `fix:` commit, plus a regression test. `pytest tests/` → **15 passed**.
 
